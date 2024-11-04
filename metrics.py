@@ -8,6 +8,7 @@ def plot_confusion_matrix(y_true, y_pred):
     plt.ylabel('True')
     plt.title('Confusion Matrix')
     plt.savefig("./graphs/confusion-matrix.png", format='png', dpi=300)
+    plt.savefig("./assets/confusion-matrix.png", format='png', dpi=300)
     plt.show()
 
 def calculate_metrics(y_true, y_pred):

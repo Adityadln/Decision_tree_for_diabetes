@@ -11,4 +11,5 @@ def plot_hyperparameter_results(results, max_depth_values):
     plt.ylim(0.65, 0.8) 
     plt.grid()
     plt.savefig("./graphs/hyperparamter-tuning.png", format='png', dpi=300)
+    plt.savefig("./assets/hyperparamter-tuning.png", format='png', dpi=300)
     plt.show()
