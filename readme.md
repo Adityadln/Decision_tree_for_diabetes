@@ -1,4 +1,5 @@
-# Decision Tree Classifier for diabetes 
+# Decision Tree Classifier for diabetes
+## roll nos : 106122003,106122041,106122057 and 106122061
 ### Setting up
 - 1 create a new folder and navigate into the folder
 - 2 clone the repo(copy the code as below)
